@@ -1,4 +1,4 @@
 minimal-book
 ============
 
-[![Build Status](http://pdf.oerpub.org/philschatz/minimal-book.png)](http://pdf.oerpub.org/philschatz/minimal-book/pdf)
+[![Build Status](http://pdf.oerpub.org/philschatz/minimal-book.png)](http://pdf.oerpub.org/philschatz/minimal-book)
